@@ -1,2 +1,6 @@
 # Repository-test
-only for test purpose.
+Angular App
+
+a) Angular Cli install
+b) Node Install
+c) Create App and run 
